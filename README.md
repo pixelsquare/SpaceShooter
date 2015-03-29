@@ -1,6 +1,4 @@
 # SpaceShooter
-*** Space Shooter
-
 * Project Name: Space Shooter
 
 * Language/s: C++
