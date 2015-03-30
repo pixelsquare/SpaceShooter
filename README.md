@@ -1,6 +1,6 @@
 # SpaceShooter
 * Project Name: Space Shooter
 
-* Language/s: C++
+* Game Engine: Atom Engine
 
 * Description: A simple project made using Atom Engine.
