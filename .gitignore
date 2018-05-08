@@ -1,0 +1,16 @@
+# Visual Studio 2015 cache directory
+/.vs/
+*.VC.db
+*.VC.opendb
+
+# Builds
+*.apk
+*.exe
+
+# Exclude everything except the solution file
+proj.win32/*
+!proj.win32/*.sln
+
+# Exclude build binaries
+src/vs/Debug.*
+src/vs/Release.*
